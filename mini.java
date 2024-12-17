@@ -6,6 +6,7 @@ public class mini {
         int b = 9;
         int c = a + b;
         System.out.println(c);
+        System.out.println("RESULT IS GIVEN ABOVE");
     }
 
 }
